@@ -9,7 +9,7 @@ export default function IDCard () {
  <div className=' absolute inset-0 flex items-center justify-center'>
 <div className='relative w-full h-full max-w-[300px] max-h-[500px]'>
 <Image
-src="/images/background.JPEG"
+src="/images/background.jpeg"
 alt="background image"
 width={350}
 height={400}
@@ -23,7 +23,7 @@ className='opacity-10'/>
 <div className='w-2/3 pr-4 pt-16 relative z-10'>
 {/* Logo section*/} 
 <img
-src='/images/logo.JPEG'
+src='/images/logo.jpeg'
 alt='card logo'
 className='absolute top-[-20px] left-0 w-16 h-18 z-10'/>
 <p className='mb-2'>
